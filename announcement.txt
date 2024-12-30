@@ -1,2 +1,2 @@
 [Global Announcement]
-test4
+test6
